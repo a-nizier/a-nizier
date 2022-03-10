@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @a-nizier
-- 👀 I’m interested in C++ programming.
-- 🌱 I’m currently learning C++.
-- 📫 How to reach me? telegram: @antonenkoff
+Hello, I’m @mdvdev
+I’m a beginner C++ developer
+How to reach me? telegram: @antonenkoff  // vk: vk.com/n.antonenkov
 
 <!---
 a-nizier/a-nizier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
