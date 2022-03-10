@@ -1,5 +1,5 @@
-Hello, I’m @mdvdev
-I’m a beginner C++ developer
+Hello, I’m @mdvdev <br/>
+I’m a beginner C++ developer <br/>
 How to reach me? telegram: @antonenkoff  // vk: vk.com/n.antonenkov
 
 <!---
