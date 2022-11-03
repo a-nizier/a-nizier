@@ -1,6 +1,5 @@
-Hello, I’m @mdvdev <br/>
-I’m a beginner C++ developer <br/>
-How to reach me? telegram: @antonenkoff  // vk: vk.com/mdvdev
+just writing code.<br/>
+How to reach me? telegram: @antonenkoff
 
 <!---
 a-nizier/a-nizier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
